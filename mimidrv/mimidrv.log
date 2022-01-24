@@ -1,0 +1,14 @@
+﻿Build started 14.12.2021 13:17:23.
+     1>Project "D:\Folders\Documents\Plog\mimidrv\mimidrv.vcxproj" on node 3 (Rebuild target(s)).
+     1>Rebuild:
+         _rebuild_.cmd x64 D:\Folders\Documents\Plog\x64\
+         Could Not Find D:\Folders\Documents\Plog\x64\*.sys
+         Sistem belirtilen dosyayı bulamıyor.
+         Could Not Find D:\Folders\Documents\Plog\mimidrv\buildfre_wnet_amd64.log
+         No WDK found :(
+         Sistem belirtilen dosyayı bulamıyor.
+     1>Done Building Project "D:\Folders\Documents\Plog\mimidrv\mimidrv.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.91
